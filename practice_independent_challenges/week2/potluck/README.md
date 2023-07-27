@@ -127,7 +127,7 @@ pry(main)> potluck.get_all_from_category(:appetizer).first
 #=> #<Dish:0x00007f942191e9b8...>
 
 pry(main)> potluck.get_all_from_category(:appetizer).first.name
-=> "Couscous Salad"
+#=> "Couscous Salad"
 ```
 
 ## Iteration 4
